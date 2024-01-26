@@ -1,0 +1,23 @@
+Bolo de copo
+rosquinha
+Bomba
+Iogurte Congelado
+Biscoito de Gengibre
+Favo de mel
+Sanduiche de sorvete
+Jujuba
+Kitkat
+Pirulito
+Marshmallow
+Torrone
+Oreo
+Torta
+
+/*
+#c5ebd6
+#83e1ad
+#3ddc84
+#2fa866
+#1a5c37
+#063d1e
+*/
